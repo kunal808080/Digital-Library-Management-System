@@ -6,6 +6,10 @@ A Java console application for librarians to manage book records.
 - Add, view, search, update, and delete books
 - Input validation for book details
 - Unique book ID enforcement
+## Future Improvements
+  - Add database persistence (MySQL/SQLite)
+  - Implement a GUI using JavaFX
+  - Add user authentication
 
 ## Setup
 1. **Prerequisites**:
